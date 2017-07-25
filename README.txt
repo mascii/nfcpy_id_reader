@@ -10,6 +10,11 @@ Read the card ID (Mifare: UID, FeliCa: IDm) with [nfcpy](https://github.com/nfcp
   - Raspbian
   - macOS
 
+## Install
+```
+pip install -U nfcpy-id-reader
+```
+
 ## Usage
 ```
 python -m nfcpy_id_reader
